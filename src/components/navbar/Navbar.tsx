@@ -14,13 +14,13 @@ const Navbar = () => {
           <a href="https://www.twitter.com/NugarRahman" target="_blank">
             <XIcon />
           </a>
-          <a href="https://www." target="_blank">
+          <a href="https://www.linkedin.com/in/Rahmannugar" target="_blank">
             <LinkedInIcon />
           </a>
           <a href="https://www.github.com/Rahmannugar" target="_blank">
             <GitHubIcon />
           </a>
-          <a href="https://www.wa" target="_blank">
+          <a href="https://wa.link/119aal" target="_blank">
             <WhatsAppIcon />
           </a>
         </div>
